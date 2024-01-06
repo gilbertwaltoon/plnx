@@ -1,0 +1,2 @@
+# plnx
+Petalinux projects
