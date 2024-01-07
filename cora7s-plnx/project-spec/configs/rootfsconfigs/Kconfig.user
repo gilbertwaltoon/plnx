@@ -1,4 +1,8 @@
 menu "user packages " 
+config busyboxwebpage  
+	 bool "busyboxwebpage"
+	 help
+	
 config civetweb  
 	 bool "civetweb"
 	 help
